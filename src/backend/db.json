@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "json-server",
+      "surname": "typicode",
+      "adresse": "tunis",
+      "age": 55
+    },
+    {
+      "id": 2,
+      "name": "json-server",
+      "surname": "typicode",
+      "adresse": "tunis",
+      "age": 55
+    },
+    {
+      "id": 3,
+      "name": "json-server",
+      "surname": "typicode",
+      "adresse": "tunis",
+      "age": 55
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "code": "TV_66",
+      "libelle": "Produit 1",
+      "prixUnitaire": 444,
+      "tauxTva": 0.19
+    },
+    {
+      "id": 3,
+      "code": "TV_66",
+      "libelle": "Produit 1",
+      "prixUnitaire": 444,
+      "tauxTva": 0.19
+    }
+  ]
+}
